@@ -1,0 +1,2 @@
+(1, 2), ('Lequel est un mot réservé Python : elif ou elsif ?', 'elif')
+

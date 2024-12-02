@@ -1,0 +1,12 @@
+(1, 7), ("Le directeur du zoo \n a une curieuse façon de choisir \n le poste de travail de chacun de \n ses employé. c'est Sandra qui s'occupe \n des singes, Loïc des lions, Clémence des crocodiles \n et Céliia des chameaux. À ton avis, qui vas s'occupé \n des vautours, Sylvie ou Valérie?",'Valérie')
+(18, 17), ('c\'est qui qui donne la pomme a blache nèige?','belle mère')
+(10, 2), ('quelle est l\'indice?','')
+(4, 13), ('Mon premier sert à lancer des flèches\nMon deuxième dure de janvier à décembre\nMon troisième est au-dessus de nous\nMon tout apparait après la pluie?','arc enciel')
+(7, 7), ('','')
+(7, 10), ('','')
+(11, 15), ('Dans un film presie une personne trouve l'objet de l\'indice3 comme s\'appelle le personnage dans le film?','Aladin')
+(18, 8), ('','')
+
+(18, 8), ('','')
+(18, 8), ('','')
+(18, 8), ('','')
